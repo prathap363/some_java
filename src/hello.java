@@ -5,7 +5,9 @@ public class hello {
       System.out.println("hello world 1);
       System.out.println("My Name is Prathap and Akhile");
 
-      System.out.println("I dont like you");
+
+      System.out.println("I always love you");
+
   }
 
 }
