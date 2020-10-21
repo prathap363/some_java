@@ -4,6 +4,7 @@ public class hello {
       System.out.println("hello world");
       System.out.println("My Name is Prathap and Akhile");
 
+      System.out.println("I dont like you ");
   }
 
 }
