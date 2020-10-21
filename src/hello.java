@@ -5,6 +5,7 @@ public class hello {
       System.out.println("hello world 1);
       System.out.println("My Name is Prathap and Akhile Nothing");
       
+      System.out.println("hello world 1);
      
                            System.out.println("1");
                            System.out.println("2");
